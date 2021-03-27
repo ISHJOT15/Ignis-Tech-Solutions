@@ -5,3 +5,6 @@ Users should be able to add new events. Event name, date, time, location and ima
 If the event is liked, the heart should be colored red, else white.<br/>
 
 # Screenshots
+
+![screenshot_addevents](https://user-images.githubusercontent.com/60621772/112710255-ac0b2a80-8ee5-11eb-8ac7-5e222931f380.png)
+![Screenshot_Events](https://user-images.githubusercontent.com/60621772/112710257-ae6d8480-8ee5-11eb-80b0-83aee386499c.png)
