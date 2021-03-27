@@ -6,5 +6,5 @@ If the event is liked, the heart should be colored red, else white.<br/>
 
 # Screenshots
 
-![screenshot_addevents](https://user-images.githubusercontent.com/60621772/112710255-ac0b2a80-8ee5-11eb-8ac7-5e222931f380.png)
-![Screenshot_Events](https://user-images.githubusercontent.com/60621772/112710257-ae6d8480-8ee5-11eb-80b0-83aee386499c.png)
+![screenshot_addevents](https://user-images.githubusercontent.com/60621772/112710287-e96fb800-8ee5-11eb-99fc-b75f1643daf7.png)
+![Screenshot_Events](https://user-images.githubusercontent.com/60621772/112710293-ef659900-8ee5-11eb-9ae4-0d0870da1aa6.png)
